@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: ygxb/minecraft-waterfall
+          images: ygxb/minecraft-velocity
           tags: |
             latest
 
