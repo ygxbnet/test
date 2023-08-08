@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: ygxb/waterfall-minecraft
+          images: ygxb/minecraft-waterfall
           tags: |
             latest
 
