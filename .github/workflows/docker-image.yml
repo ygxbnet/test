@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: ygxb/minecraft-velocity
+          images: ygxb/minecraft-server
           tags: |
             latest
 
