@@ -26,6 +26,7 @@ jobs:
           images: ygxb/minecraft-server
           tags: |
             latest
+            17
 
       - name: Setup QEMU
         uses: docker/setup-qemu-action@v2
