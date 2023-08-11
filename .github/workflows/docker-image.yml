@@ -25,8 +25,7 @@ jobs:
         with:
           images: ygxb/minecraft-paper
           tags: |
-            latest
-            17
+            8
 
       - name: Setup QEMU
         uses: docker/setup-qemu-action@v2
