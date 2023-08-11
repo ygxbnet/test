@@ -3,7 +3,7 @@ name: Build And Push Docker Image
 on:
   push:
     branches:
-      - main
+      - docker/minecraft-paper
 
 jobs:
   build-docker:
@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: ygxb/minecraft-server
+          images: ygxb/minecraft-paper
           tags: |
             latest
             17
