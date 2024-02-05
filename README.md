@@ -1,7 +1,7 @@
 # Test
 > 测试仓库 This is test repository
 
-![CHANGELOG](https://image.ygxb.net/i/2022/12/28/63ac30ea9b702.webp)
+![IMG_20221007_094314_321.webp](https://img.ygxb.net/i/2022/10/30/635dd5b8371ee.webp)
 
 ![test](https://pica.zhimg.com/80/e693aa537b365c99fc47cc97694ae4c3_720w.webp)
 
